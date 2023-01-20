@@ -3,7 +3,7 @@
 - 🔭 Estou atualmente em Estágio na escola
 - 🌱 Estou atualmente aprendendo html,css and javascript
 - 📫 Como chegar até mim: sidinhocontatoo@gmail.com
-- 👦 Sou Brasileiro
+- 👦 Brasileiro
 
 <div align="center">
   <a href="https://github.com/Sidney-Filho">
