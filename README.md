@@ -1,9 +1,5 @@
 !!! Hello, I am Sidney 👋
 
-- 🔭 Estou atualmente em Estágio na escola
-- 🌱 Estou atualmente aprendendo html,css and javascript
-- 📫 Como chegar até mim: sidinhocostafilho@gmail.com
-- 👦 Brasileiro
 
 <div align="center">
   <a href="https://github.com/Sidney-Filho">
