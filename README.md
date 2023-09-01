@@ -4,6 +4,7 @@
 <div align="center">
   <a href="https://github.com/Sidney-Filho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Filho&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jssicapedro&layout=compact&langs_count=7&theme=algolia"/> 
 </div>
 <div style="display: inline_block"><br>
   <h2>Skills</h2>
