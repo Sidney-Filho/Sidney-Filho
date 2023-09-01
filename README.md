@@ -1,5 +1,4 @@
-!!! Hello, I am Sidney 👋
-
+<h1>Hello World, I am Sidney 👋 </h1>
 
 <div align="center">
   <a href="https://github.com/Sidney-Filho">
@@ -13,7 +12,6 @@
   <img align="center" alt="Sidney-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
  
 <div>
   <h2>Contact me</h2>
