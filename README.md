@@ -1,8 +1,18 @@
-<h1>Olá Mundo, Eu sou o Sidney 👋 </h1>
+<h1>Hi There! 👋 </h1>
 
-<div align="center">
+<div style="display: inline-block">
+  <a href = "mailto:sidinhocontatoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sidney-costa-filho-543209255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div style="display: flex">
+  <h2>My name is Sidney Costa Filho</h2>
+  ○ 👩‍💻 Studing Front-End
+  ○ 💡 Love make websites
+</div>
+
+<div align="start">
   <a href="https://github.com/Sidney-Filho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Filho&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Filho&layout=compact&langs_count=7&theme=white"/> 
 </div>
 <div style="display: inline_block"><br>
@@ -14,10 +24,7 @@
   
  
 <div>
-  <h2>Contact me</h2>
-  <a href = "mailto:sidinhocontatoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sidney-costa-filho-543209255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
    ![Snake animation](https://github.com/Sidney-Filho/Sidney-Filho/blob/output/github-contribution-grid-snake.svg)
   
 </div>
