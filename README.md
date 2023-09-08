@@ -8,7 +8,7 @@
 <div style="display: flex">
   <h2>My name is Sidney Costa Filho</h2>
   ○ 👩‍💻 Studing Front-End
-  ○ 💡 Love make websites
+  ○ 💡 Enjoy make websites
 </div>
 
 <div align="start">
