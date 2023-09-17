@@ -2,7 +2,7 @@
 
 - 🔥 Front-End Developer 
 
-- 🔭 I’m currently studying programming
+- 🔭 I’m currently studying Front-End programming
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
 
