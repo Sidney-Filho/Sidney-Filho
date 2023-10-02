@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently studying Front-End programming
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
-
 - ⚡ Always excited to make new things
 
 - 👨‍💻 More at https://sidney-filho.github.io/SidneyFilhoPortfolio/
