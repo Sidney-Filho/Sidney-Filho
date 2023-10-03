@@ -2,9 +2,9 @@
 
 - 🔥 Front-End Developer 
 
-- 🔭 I’m currently studying Front-End programming
+- 🔭 I’m currently studying JavaScript
 
-- ⚡ Always excited to make new things
+- ⚡ I'm interested in studying Vue
 
 - 👨‍💻 More at https://sidney-filho.github.io/SidneyFilhoPortfolio/
 
