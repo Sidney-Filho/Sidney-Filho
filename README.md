@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying JavaScript
 
-- ⚡ I'm interested in studying Vue
+- ⚡ I'm interested in studying React
 
 - 👨‍💻 More at https://sidney-filho.github.io/SidneyFilhoPortfolio/
 
