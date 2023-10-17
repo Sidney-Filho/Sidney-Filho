@@ -2,9 +2,9 @@
 
 - 🔥 I’m currently learning <strong> JavaScript </strong> and <strong> NodeJs </strong> 
 
-- ⚡ I'm interested in studying React
+- ⚡ I'm interested in studying <strong> React </strong>
 
-- 👨‍💻 More at https://sidney-filho.github.io/SidneyFilhoPortfolio/
+- 👨‍💻 More at <a target="_blank" rel="noopener noreferrer" href="https://sidney-filho.github.io/SidneyFilhoPortfolio/">SidneyFilhoPortfolio</a>
 
 ## ⚡ Git Hub Status
 
