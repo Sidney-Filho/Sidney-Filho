@@ -1,8 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Sidney Filho</h1>
 
-- 🔥 Front-End Developer 
-
-- 🔭 I’m currently studying JavaScript
+- 🔥 I’m currently learning <strong> JavaScript </strong> and <strong> NodeJs </strong> 
 
 - ⚡ I'm interested in studying React
 
