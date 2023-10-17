@@ -4,6 +4,8 @@
 
 - ⚡ I'm interested in studying <strong> React </strong>
 
+- 🎓 I am a student looking for opportunities and collabaration in projects.
+
 - 👨‍💻 More at <a target="_blank" rel="noopener noreferrer" href="https://sidney-filho.github.io/SidneyFilhoPortfolio/">SidneyFilhoPortfolio</a>
 
 <hr>
