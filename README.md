@@ -6,7 +6,7 @@
 
 - 🎓 I am a student looking for opportunities and collabaration in projects.
 
-- 👨‍💻 More at <a target="_blank" rel="noopener noreferrer" href="https://sidney-filho.github.io/SidneyFilhoPortfolio/">SidneyFilhoPortfolio</a>
+- 👨‍💻 More at <a target="_blank" rel="noopener noreferrer" href="https://sidney-portfolio-1.vercel.app/">SidneyFilhoPortfolio</a>
 
 
 <div style="display: inline_block"><br>
