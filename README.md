@@ -1,29 +1,47 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Sidney Filho</h1>
 
-- 🔥 I’m currently Full-Stack Developer
+- 🚀 **Full-Stack Developer | AI & Automation Enthusiast**
+- 🤖 Specialized in building **Agentic Workflows** and **RAG Systems** using **LangChain** and **Python**.
+- 🛠️ Hands-on experience with **.NET Core, React, and Azure OCR** for enterprise solutions.
+- 🎓 Final year Web Development student at **IPCA (Portugal)**.
+- 👨‍💻 Check out my projects at: <a target="_blank" rel="noopener noreferrer" href="https://sidney-portfolio-1.vercel.app/">sidney-filho.portfolio</a>
 
-- ⚡ I'm interested in studying <strong> Python </strong>
+---
 
-- 🎓 I am a student looking for opportunities and collabaration in projects.
+### 🛠️ Tech Stack & Tools
 
-- 👨‍💻 More at <a target="_blank" rel="noopener noreferrer" href="https://sidney-portfolio-1.vercel.app/">SidneyFilhoPortfolio</a>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sid-React#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sid-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Sid-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Sid-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Sid-TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Sid-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+**Languages & Frameworks**
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
 </div>
 
-<hr>
+<br>
 
+**Databases & Infrastructure**
+<div style="display: inline_block">
+  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Filho&layout=compact)
+---
 
+### 📈 GitHub Stats
 
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Filho&layout=compact&theme=vision-friendly-dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Filho&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+</p>
+
+---
+
+### 📫 Connect with me:
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Sidney-Filho)
+<br><br>
