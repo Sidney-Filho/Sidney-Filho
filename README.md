@@ -3,7 +3,6 @@
 - 🚀 **Full-Stack Developer | AI & Automation Enthusiast**
 - 🤖 Specialized in building **Agentic Workflows** and **RAG Systems** using **LangChain** and **Python**.
 - 🛠️ Hands-on experience with **.NET Core, React, and Azure OCR** for enterprise solutions.
-- 🎓 Final year Web Development student at **IPCA (Portugal)**.
 - 👨‍💻 Check out my projects at: <a target="_blank" rel="noopener noreferrer" href="https://sidney-portfolio-1.vercel.app/">sidney-filho.portfolio</a>
 
 ---
