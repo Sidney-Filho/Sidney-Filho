@@ -1,46 +1,43 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Sidney Filho</h1>
+# Hi 👋, I'm Sidney Filho
 
-- 🚀 **Full-Stack Developer | AI & Automation Enthusiast**
-- 🤖 Specialized in building **Agentic Workflows** and **RAG Systems** using **LangChain** and **Python**.
-- 🛠️ Hands-on experience with **.NET Core, React, and Azure OCR** for enterprise solutions.
-- 👨‍💻 Check out my projects at: <a target="_blank" rel="noopener noreferrer" href="https://sidney-portfolio-1.vercel.app/">sidney-filho.portfolio</a>
+**Web Developer | React, TypeScript & Next.js**
 
----
+I'm a developer based in **Braga, Portugal**, focused on building practical web applications with clear, accessible interfaces.
 
-### 🛠️ Tech Stack & Tools
+My experience includes frontend development with **React and TypeScript**, backend development with **Python and FastAPI**, and AI integrations using **LangChain, language models, and PostgreSQL**.
 
-**Languages & Frameworks**
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
-</div>
+I'm currently looking for a **junior frontend or full-stack opportunity**, remote from Portugal or around Braga, where I can contribute and grow alongside an experienced team.
 
-<br>
-
-**Databases & Infrastructure**
-<div style="display: inline_block">
-  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+[Portfolio](https://sidney-portfolio-1.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sidneycostafilho)
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Technologies
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Filho&layout=compact&theme=vision-friendly-dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidney-Filho&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-</p>
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| Backend | Python, FastAPI, Node.js, Express, C# / .NET |
+| Databases | PostgreSQL, MySQL, SQL Server, Supabase |
+| AI & Automation | LangChain, RAG, agent workflows, LLM APIs |
+| Tools | Git, GitHub, Docker, Postman, REST APIs |
 
 ---
 
-### 📫 Connect with me:
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sidneycostafilho)
-<br><br>
+## 🌱 Currently Building
+
+### [Ritmo](https://github.com/Sidney-Filho/ritmo)
+A personal planning application designed to help users organise tasks around the time they actually have available.
+
+The MVP focuses on task priorities, duration estimates, and a weekly view that highlights overloaded days.
+
+**Stack:** Next.js, TypeScript, and Tailwind CSS.
+
+---
+
+## 📫 Let's Connect
+
+I'm open to junior developer roles and opportunities to collaborate on useful web applications.
+
+- [LinkedIn](https://www.linkedin.com/in/sidneycostafilho)
+- [Portfolio](https://sidney-portfolio-1.vercel.app/)
